@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Yugank Upadhyaya
 
-<!--
-**yugankkupadhyaya/yugankkupadhyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student | Full-Stack Backend Developer (MERN & Next.js)**  
+🧠 Strong in **Data Structures & Algorithms**  
+🎯 Actively seeking **Internships & Entry-Level Roles**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a **backend-focused full-stack developer** with a strong foundation in the **MERN stack** and **Next.js**.  
+I enjoy building clean, scalable backend systems and improving my problem-solving skills through **DSA practice**.
+
+- Backend-first mindset
+- Comfortable with MERN & Next.js
+- Strong focus on fundamentals & logic
+- Interested in real-world system building
+
+---
+
+## 🛠️ Tech Stack
+
+### Core
+- **Languages:** JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Frontend:** React.js, Next.js  
+- **Database:** MongoDB  ,POSTGRES
+- **APIs:** REST  
+- **Auth:** JWT / Session-based  
+- **Tools:** Git, GitHub  
+
+### Problem Solving
+- Data Structures & Algorithms  
+- Arrays, Strings, Linked Lists  
+- Stacks, Queues, Hashing  
+- Recursion, Searching, Sorting  
+
+---
+
+## 📂 Projects
+
+- Full-stack MERN applications  
+- Backend-heavy Next.js projects  
+- Authentication & CRUD systems  
+
+*(Pinned repositories showcase my best work.)*
+
+---
+
+
+## 🎯 Current Focus
+
+- Strengthening backend & system fundamentals  
+- Improving DSA consistency  
+- Building real-world MERN / Next.js projects  
+- Preparing for internships & entry-level roles  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: (https://www.linkedin.com/in/yugank-upadhyaya-188786248/)  
+- Email: yugankupadhyaya@gmail.com  
+
+---
+
+> **“Strong fundamentals over flashy tech.”**
