@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Yugank Upadhyaya
 
-🎓 **Student | Full-Stack Backend Developer (MERN & Next.js)**  
+🎓 **Student | Backend Engineer |DevOps Engineer**  
 🧠 Strong in **Data Structures & Algorithms**  
-🎯 Actively seeking **Internships & Entry-Level Roles**
+🎯 Actively seeking **Internships & Full time Roles**
 
 ---
 
 ## 🚀 About Me
 
-I am a **backend-focused full-stack developer** with a strong foundation in the **MERN stack** and **Next.js**.  
+I am a **backend- engineer** with a strong foundation in the **MERN stack** and **Next.js**.  
 I enjoy building clean, scalable backend systems and improving my problem-solving skills through **DSA practice**.
 
 - Backend-first mindset
@@ -41,7 +41,7 @@ I enjoy building clean, scalable backend systems and improving my problem-solvin
 
 - Full-stack MERN applications  
 - Backend-heavy Next.js projects  
-- Authentication & CRUD systems  
+
 
 *(Pinned repositories showcase my best work.)*
 
