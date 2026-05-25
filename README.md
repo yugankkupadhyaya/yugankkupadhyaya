@@ -32,26 +32,6 @@ My interests span across backend engineering, DevOps, distributed systems, cloud
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 SpendWise
-AI-powered SaaS spend optimization platform built to analyze organizational AI tooling costs, detect inefficiencies, and generate actionable recommendations.
-
-**Tech:** Next.js, TypeScript, Zustand, Zod, TailwindCSS, Framer Motion
-
----
-
-### 🔹 Deckly
-Modern presentation and content generation platform focused on fast workflows and clean user experience.
-
-**Tech:** Next.js, TypeScript, PostgreSQL, Prisma
-
----
-
-### 🔹 Portly
-Developer-focused portfolio and project management platform with scalable backend architecture and clean UI systems.
-
-**Tech:** React, Node.js, PostgreSQL, TailwindCSS
 
 ---
 
@@ -115,19 +95,7 @@ Developer-focused portfolio and project management platform with scalable backen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
 </p>
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yugankkupadhyaya&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugankkupadhyaya&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugankkupadhyaya&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
 
 ---
 
