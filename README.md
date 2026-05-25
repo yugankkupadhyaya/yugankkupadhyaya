@@ -1,18 +1,20 @@
-<h1 align="center">Hi 👋, I'm Yugank Upadhyaya</h1>
+<!-- <h1 align="center">Hi 👋, I'm Yugank Upadhyaya</h1>
 
 <h3 align="center">
-Backend Engineer • DevOps Engineer • Cloud-Native Systems Enthusiast
 </h3>
 
 <p align="center">
 Building scalable backend systems, cloud-native infrastructure, and modern AI-powered applications.
-</p>
+</p> -->
+<div align="center">
 
----
+# 👋 Hey, I'm Yugank Upadhyaya
+
+### Backend Engineer • DevOps Engineer • Cloud-Native Systems Enthusiast • Open Source Contributor
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Building+scalable+web+solutions;Crafting+seamless+user+experiences;Learning+%26+growing+every+day" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshh.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-website-yugankkupadhyaya.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugankkupadhyaya@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugank-upadhyaya-188786248/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yugankupadhyaya)
@@ -20,6 +22,7 @@ Building scalable backend systems, cloud-native infrastructure, and modern AI-po
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
+
 
 ---
 
