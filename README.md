@@ -126,7 +126,7 @@ My interests span across backend engineering, DevOps, distributed systems, cloud
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://portfolio-website-yugankkupadhyaya.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
